@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HTTPServerMultiThreadMain",
+            "request": "launch",
+            "mainClass": "eu.dice.net.tcp.HTTPServerMultiThreadMain",
+            "projectName": "seminar11_4703a4d0"
+        },
+        {
+            "type": "java",
+            "name": "HTTPServerSingleThreadMain",
+            "request": "launch",
+            "mainClass": "eu.dice.net.tcp.HTTPServerSingleThreadMain",
+            "projectName": "seminar11_4703a4d0"
+        },
+        {
+            "type": "java",
+            "name": "HTTPClientMain",
+            "request": "launch",
+            "mainClass": "eu.dice.net.tcp.HTTPClientMain",
+            "projectName": "seminar11_4703a4d0"
+        }
+    ],
+    "compounds": []
+}

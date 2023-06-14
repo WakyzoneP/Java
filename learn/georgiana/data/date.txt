@@ -1,0 +1,3 @@
+Ion,Ion@yahoo.com,Bucuresti,10
+Maria,maria@yahoo.com,Bucuresti,20
+Ana,ana@yahoo.com,Bucuresti,30
